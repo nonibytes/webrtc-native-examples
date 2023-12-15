@@ -1,4 +1,4 @@
-Translated from oroginal article in chinese: [here](./packets%20retransmition.cn.md)
+Translated from original article in chinese: [here](./packets%20retransmition.cn.md)
 
 ## WebRTC Network Transmission - Packet Retransmission
 

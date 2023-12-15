@@ -1,4 +1,4 @@
-Translated from oroginal article in chinese: [here](./1-3-audio-stream.cn.md)
+Translated from original article in chinese: [here](./1-3-audio-stream.cn.md)
 
 ## WebRTC Audio Stream
 

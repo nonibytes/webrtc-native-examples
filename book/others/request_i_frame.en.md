@@ -1,4 +1,4 @@
-Translated from oroginal article in chinese: [here](./request_i_frame.cn.md)
+Translated from original article in chinese: [here](./request_i_frame.cn.md)
 
 
 ## WebRTC Network Transmission - Keyframe Request

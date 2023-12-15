@@ -1,4 +1,4 @@
-Translated from oroginal article in chinese: [here](./1-0-preparation.cn.md)
+Translated from original article in chinese: [here](./1-0-preparation.cn.md)
 
 ## Introduction to WebRTC Terms
 

@@ -1,4 +1,4 @@
-Translated from oroginal article in chinese: [here](./fec_generator.cn.md)
+Translated from original article in chinese: [here](./fec_generator.cn.md)
 
 ## WebRTC FEC Mechanism
 
